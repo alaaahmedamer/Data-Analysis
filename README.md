@@ -8,6 +8,7 @@ Hello! I'm **Alaa Ahmed Amer**, an Electronics & Communications Engineer passion
 
 ### 🎯 Project Overview
 This repository contains my latest Data Analysis project, where I developed a comprehensive, end-to-end interactive dashboard. The goal of this project was to clean raw business data, analyze key performance indicators (KPIs), and present automated visual insights to support strategic decision-making.
+<img width="1909" height="964" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/c3033e89-d077-4b84-8a6e-263cc16ed7f8" />
 
 ### 🛠️ Tech Stack & Tools Used
 * **Data Visualization & Analytics:** Power BI 
